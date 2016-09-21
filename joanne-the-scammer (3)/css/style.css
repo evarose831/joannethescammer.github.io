@@ -1,0 +1,110 @@
+/*  first customize entire body then make classes for individual edits */
+
+.title { 
+  color: turquoise; 
+  font-family: 'Lobster', cursive; 
+     text-align: center;
+    font-size: 200%;
+
+  
+ 
+}
+
+.drake {
+    text-indent: 50px;
+}
+
+
+.appletalk {
+  color: magenta 
+;
+  font-family: 'Permanent Marker', cursive;
+  text-indent: 50px;
+font-size: 75%;
+  
+}
+
+.a {
+  color: turquoise; 
+  font-family: 'Lobster', cursive; 
+  }
+
+a {
+  text-decoration: none;
+}
+
+span {
+  color:turquoise ; 
+  font-family: 'Lobster', cursive; 
+  
+  }
+
+
+#joanne {
+ color:#FF3AD5 ; 
+    box-shadow: 10px 10px;
+
+
+
+}
+
+.drake{
+    padding-top: 50px;
+    padding-right: 30px;
+    padding-bottom: 50px;
+    padding-left: 80px;
+}
+body {
+    background-color: #ffff99;
+  
+  
+}
+  .style {
+   color: magenta
+;
+  font-family: 'Permanent Marker', cursive; 
+   text-align: center;
+   background-color: #97FF62  
+  
+  ;    
+  }
+
+#coat {
+  float: center; 
+  background-color: #7BFF5A; 
+  width: 720px;
+  height: 1013px;
+}
+
+
+.clothes {
+}
+
+h3 {
+   color: turquoise;
+  font-family: 'Dancing Script', cursive;
+   text-align: center;
+ font-size: 200%;
+   background-color: #FF3AD5  ;
+  border-top-style: dotted;
+  border-color: magenta; 
+  
+}
+
+h5 {
+  color: magenta;
+  
+  
+  
+}
+
+#words {
+  color:#FF3AD5; 
+    box-shadow: 10px 10px;
+  width: 720px
+   
+}
+
+
+
+
